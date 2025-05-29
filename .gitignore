@@ -1,0 +1,4 @@
+.launch.json
+.vscode
+.env
+__pycache__
